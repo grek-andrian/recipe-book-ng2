@@ -6,7 +6,7 @@ import { Ingredient } from '../ingredient';
   templateUrl: './shopping-list.component.html'
 })
 export class ShoppingListComponent implements OnInit {
-  items: Ingredient[]=[];
+  items: Ingredient[] = [];
 
   constructor() { }
 
