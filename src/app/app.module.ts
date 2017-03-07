@@ -13,6 +13,7 @@ import { ShoppingListComponent } from './shopping-list/shopping-list.component';
 import { ShoppingListAddComponent } from './shopping-list/shopping-list-add.component';
 import { DropdownDirective } from './dropdown.directive';
 
+
 @NgModule({
   declarations: [
     AppComponent,
